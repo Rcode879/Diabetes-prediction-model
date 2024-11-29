@@ -37,7 +37,7 @@ The dataset is widely used in machine learning and contains both features for pr
 2. **Visualization**  
    - Histograms of all numerical columns in the dataset are generated.  
    - These provide insights into the distribution of features.
-   ![Dataframe plotted on a histogram](histogram.png)
+   ![Dataframe plotted on a histogram](Histogram.png)
 
 3. **Data Preprocessing**  
    - Missing or zero values in key columns (`Glucose`, `BloodPressure`, `SkinThickness`, `Insulin`, `BMI`) are replaced with their column means.  
