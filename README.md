@@ -1,5 +1,5 @@
 # Diabetes-prediction-model
-5. **Neural Network Model**  
+ **Neural Network Model**  
    - A neural network is created using Keras' Sequential API. The architecture is as follows:  
      - **Input Layer**: Accepts 8 features from the dataset.  
      - **Hidden Layers**:  
@@ -11,10 +11,9 @@
      - Loss function: `binary_crossentropy`  
      - Metric: `accuracy`  
 
-6. **Training**
+**Training**
    - The model is trained on the training dataset for 200 epochs.
-
-7. **Evaluation**
+ **Evaluation**
    - The model is evaluated on the test dataset, and the testing accuracy is displayed.
 
 ---
