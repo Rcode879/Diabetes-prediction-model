@@ -27,7 +27,7 @@
 2. **Run the Script**  
    - Execute the script in your terminal or IDE:  
      ```bash
-     python script_name.py
+     python main.py
      ```
 
 3. **View Results**  
